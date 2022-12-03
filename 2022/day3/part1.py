@@ -23,5 +23,6 @@ with open('inputs.txt', 'r') as f:
 
 		final_sum += priority
 
-	print(final_sum)	
+	print(final_sum)
+
 
